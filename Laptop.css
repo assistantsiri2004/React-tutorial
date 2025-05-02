@@ -1,0 +1,13 @@
+
+
+body{
+
+background-color: black;
+}
+.div{
+    background-Color: "grey";
+    margin:20px;
+    padding: 1px;
+    border-Radius: 10px;
+    border: 2px solid yellow
+}
